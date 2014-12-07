@@ -1,0 +1,5 @@
+
+          WAN Connection Type:		
+          Network Name (SSID):		
+        Network Security Type:		
+         Network Security Key:		
