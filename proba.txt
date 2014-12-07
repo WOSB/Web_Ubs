@@ -3,3 +3,9 @@
           Network Name (SSID):		
         Network Security Type:		
          Network Security Key:		
+
+Computers are data processors. Information is fed into them; they do something with it,
+and then generate further information. A computer program tells the computer what to
+o with the information coming in. A computer works on data in the same way that a
+ausage machine works on meat, something is put in one end, some processing is
+erformed, and something comes out of the other end: 
